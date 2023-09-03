@@ -8,7 +8,8 @@
 </div>
 <!-- Repositories-->
 <div id="repositories" align="center">
-  
+
+   <a href="https://github.com/muralimallela/jpLab"><img alt="jp" src="https://img.shields.io/badge/-JP-blue?style=for-the-badge"></a><br>
   <a href="https://github.com/muralimallela/c-programing"><img alt="C" src="https://img.shields.io/badge/-C-blue?style=for-the-badge"></a><br>
   <a href="https://github.com/muralimallela/DATA-STRUCTURES-IN-C"><img alt="C++" src="https://img.shields.io/badge/-Data%20Structures-green?style=for-the-badge"></a><br>
  <a href="https://github.com/muralimallela/CPP"><img alt="C++" src="https://img.shields.io/badge/-C++-orange?style=for-the-badge"></a>
