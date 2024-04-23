@@ -13,6 +13,7 @@
   <a href="https://github.com/muralimallela/c-programing"><img alt="C" src="https://img.shields.io/badge/-C Programming-blue?style=for-the-badge"></a><br>
   <a href="https://github.com/muralimallela/DATA-STRUCTURES-IN-C"><img alt="C++" src="https://img.shields.io/badge/-Data%20Structures-green?style=for-the-badge"></a><br>
  <a href="https://github.com/muralimallela/CPP"><img alt="C++" src="https://img.shields.io/badge/-C++ Programming-orange?style=for-the-badge"></a>
+  <a href="https://github.com/muralimallela/ML_LAB"><img alt="ML" src="https://img.shields.io/badge/-Machine Learning-yellow?style=for-the-badge"></a>
 </div>
 <div id="Social Media" align="center">
     <h2>Social Media</h2>
