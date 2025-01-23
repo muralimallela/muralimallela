@@ -2,11 +2,6 @@
 # Hi there! 👋 I'm Murali Krishna Mallela 
 
 Welcome to my GitHub profile! I am an aspiring Full Stack Developer skilled in Python, Java, and AI, with hands-on experience in web development and mobile app development.
-- 🌱 I’m currently learning **advanced algorithms** and exploring new technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, JavaScript, and cloud computing.
-- 📫 How to reach me: [mmallela9@gmail.com](mailto:mmallela9@gmail.com)
-- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
 
 ## 🚀 About Me
 
