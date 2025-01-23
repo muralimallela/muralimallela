@@ -1,37 +1,62 @@
-<!-- Intro -->
-<div id="Intro" align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=30&pause=1000&center=true&vCenter=true&width=550&lines=+Hi%2C+I+am+Murali+Krishna+Mallela;It's+Nice+to+meet+You!" alt="Typing SVG" /></a>
- <h5></h5>
-</div>
-<div id="Repositories" align="center">
-    <h2>Repositories</h2>
-</div>
-<!-- Repositories-->
-<div id="repositories" align="center">
-   <a href="https://github.com/muralimallela/ML_LAB"><img alt="ML" src="https://img.shields.io/badge/-Machine Learning-gray?style=for-the-badge"></a><br>
-   <a href="https://github.com/muralimallela/jpLab"><img alt="jp" src="https://img.shields.io/badge/-Java Programming-orange?style=for-the-badge"></a><br>
-  <a href="https://github.com/muralimallela/c-programing"><img alt="C" src="https://img.shields.io/badge/-C Programming-blue?style=for-the-badge"></a><br>
-  <a href="https://github.com/muralimallela/DATA-STRUCTURES-IN-C"><img alt="C++" src="https://img.shields.io/badge/-Data%20Structures-green?style=for-the-badge"></a><br>
- <a href="https://github.com/muralimallela/CPP"><img alt="C++" src="https://img.shields.io/badge/-C++ Programming-orange?style=for-the-badge"></a>
-  
-</div>
-<div id="Social Media" align="center">
-    <h2>Social Media</h2>
-</div>
-<!-- Social Media -->
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/muralikrishnamallela/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://twitter.com/mallelamuralik1">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
-  </a>
-  <a href="https://www.instagram.com/murali_mallela/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instragram Badge">
-  </a>
-  
- <!-- <a href="#"><img src="https://komarev.com/ghpvc/?username=muralimallela&style=for-the-badge&color=red" alt="Profile Views"></a> -->
- ![](https://hit.yhype.me/github/profile?account_id=98264698)
-</div>
+# Hi there! 👋 I'm Murali Krishna Mallela 
 
+Welcome to my GitHub profile! I am an aspiring Full Stack Developer skilled in Python, Java, and AI, with hands-on experience in web development and mobile app development.
+- 🌱 I’m currently learning **advanced algorithms** and exploring new technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about web development, Python, JavaScript, and cloud computing.
+- 📫 How to reach me: [mmallela9@gmail.com](mailto:mmallela9@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+
+## 🚀 About Me
+
+I am a dedicated student at Sai Spurthy Institute of Technology, pursuing a Bachelor of Technology in Computer Science and Engineering. With a strong foundation in full-stack development, I have hands-on experience in Python, Java, and mobile application development. Recently, I completed an internship at Xtentics Consultancy Services, where I honed my skills in full stack development and mobile app development. Passionate about artificial intelligence, I have completed several relevant certifications and projects, including a memory card-matching game using Android Studio and Kotlin. I am open to exciting opportunities in app development, full stack development, and AI.
+
+- 🌱 I’m currently learning **advanced algorithms** and exploring new technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- 💬 Ask me about web development, Python, JavaScript, and cloud computing.
+- 📫 How to reach me: [mmallela9@gmail.com](mailto:mmallela9@gmail.com)
+- ⚡ Fun fact: I love solving puzzles and playing chess in my free time.
+
+## 🏢 Work Experience
+
+### Xtentics Consultancy Services
+**Data Science Intern**  
+*Jul 2024 - Nov 2024*
+
+- Contributed to projects like the RevRoad website, App 100 emergency helpline, and a doctor appointment app.
+- Developed skills in React.js, Kotlin, and full-stack development, with a focus on Android app development using Android Studio.
+
+## 🎓 Education
+
+### Sai Spurthy Institute of Technology
+**Bachelor of Technology in Computer Science and Engineering**  
+*2021 - 2025*
+
+### TSR Junior College
+**Intermediate**  
+*2019 - 2021*
+
+### SDVR ZPH School
+**SSC**  
+*2018 - 2019*
+
+## 🛠️ Skills
+
+- **Frontend Development**: React, Next.js, Typescript
+- **Backend Development**: Node.js, Fast API, Flask, Spring Boot
+- **Programming Languages**: Python, Java, Kotlin
+- **Databases**: Postgres, MySQL, MongoDB
+- **Mobile Development**: Android Studio
+- **DevOps**: Docker
+
+## 📫 Connect with Me
+
+- LinkedIn: [Murali Krishna Mallela](https://www.linkedin.com/in/muralikrishnamallela/)
+- X : [@muralimallela9](https://x.com/muralimallela9)
+- Personal Website: [www.muralikrishna.online](https://www.muralikrishna.online)
+
+Thanks for visiting my profile! 😊
+##
+![](https://komarev.com/ghpvc/?username=muralimallela)
+![](https://hit.yhype.me/github/profile?account_id=98264698)
