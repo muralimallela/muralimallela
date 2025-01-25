@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am an aspiring Full Stack Developer skilled in P
 
 ## 🚀 About Me
 
-I am a dedicated student at Sai Spurthy Institute of Technology, pursuing a Bachelor of Technology in Computer Science and Engineering. With a strong foundation in full-stack development, I have hands-on experience in Python, Java, and mobile application development. Recently, I completed an internship at Xtentics Consultancy Services, where I honed my skills in full stack development and mobile app development. Passionate about artificial intelligence, I have completed several relevant certifications and projects, including a memory card-matching game using Android Studio and Kotlin. I am open to exciting opportunities in app development, full stack development, and AI.
+I am a dedicated student pursuing a Bachelor of Technology in Computer Science and Engineering. With a strong foundation in full-stack development, I have hands-on experience in Python, Java, and mobile application development. Recently, I completed an internship at Xtentics Consultancy Services, where I honed my skills in full stack development and mobile app development. Passionate about artificial intelligence, I have completed several relevant certifications and projects, including a memory card-matching game using Android Studio and Kotlin. I am open to exciting opportunities in app development, full stack development, and AI.
 
 - 🌱 I’m currently learning **advanced algorithms** and exploring new technologies.
 - 👯 I’m looking to collaborate on open-source projects.
