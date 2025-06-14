@@ -49,7 +49,7 @@ I am a dedicated student pursuing a Bachelor of Technology in Computer Science a
 
 - LinkedIn: [Murali Krishna Mallela](https://www.linkedin.com/in/muralikrishnamallela/)
 - X : [@muralimallela9](https://x.com/muralimallela9)
-- Personal Website: [www.muralikrishna.online](https://www.muralikrishna.is-a.dev)
+- Personal Website: [muralikrishna.is-a.dev](https://muralikrishna.is-a.dev/)
 
 Thanks for visiting my profile! 😊
 ##
